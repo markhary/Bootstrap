@@ -6,6 +6,8 @@ Repository for [Bootstrap 4 from Scratch with 5 Projects](https://www.udemy.com/
 
 ### Installation
 
+`npm install`
+
 ### Usage
 
 ### Testing
@@ -23,10 +25,6 @@ This project uses [Semantic Versioning 2.0.0](http://semver.org/). Please see [t
 ### License
 
 This repository is licensed under [The Unlicense](LICENSE.md).
-
-###### Other License Examples
-
-- [MIT](https://choosealicense.com/licenses/mit/)<br/>
 
 ### Acknowledgements
 
